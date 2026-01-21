@@ -1,0 +1,21 @@
+# Java
+/bin/
+/out/
+/target/
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Vault data
+vault.dat
+
+# Builds
+*.exe
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
