@@ -40,3 +40,57 @@ Encryption details:
 
 ## 📁 Project Structure
 
+---
+
+## 📁 Project Structure
+
+## ▶️ Run from source
+
+### Requirements
+- Java **17+**
+- Eclipse (or any Java IDE)
+
+### Start
+Run:
+---
+
+## 📦 Releases (Windows EXE)
+
+Prebuilt **Windows `.exe`** files are available under  
+👉 **GitHub → Releases**
+
+The EXE is built using `jpackage` and includes a bundled JRE,  
+so **no Java installation is required**.
+
+---
+
+## 🔐 Security notes
+
+- `vault.dat` is **never committed** to Git
+- The repository contains **source code only**
+- The master password is **never stored**
+- If you lose your master password, **the vault cannot be recovered**
+
+---
+
+## 🚧 Planned Improvements
+
+- ⏱ Auto-lock after inactivity
+- 📋 Clipboard auto-clear (timer)
+- 🔍 Search / filter
+- 🌙 Dark Mode
+- 🔁 Change master password
+- 🔏 Code signing (Windows / macOS)
+
+---
+
+## ⚠ Disclaimer
+
+This project is intended for **personal use and educational purposes**.  
+Use at your own risk. No warranty is provided.
+
+---
+
+## 📜 License
+
+MIT License
