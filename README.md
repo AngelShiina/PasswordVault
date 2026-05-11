@@ -37,11 +37,6 @@ Encryption details:
 - Integrity protection included (tamper detection)
 
 ---
-
-## 📁 Project Structure
-
----
-
 ## 📁 Project Structure
 
 ## ▶️ Run from source
